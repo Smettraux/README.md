@@ -9,7 +9,7 @@
   Hi, I'm Steve METTRAUX, Media Engineering student from Switzerland
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelor's degree in HEIG-VD COMEM+ Department
+  🔬 I'm currently studying for a Bachelor's degree in <a href="https://heig-vd.ch/a-propos/heig-vd/organisation/departements/comem">HEIG-VD COMEM+</a> Department
   <br>
   💻 I'm kinda new to writing code, but I love to learn about it
   <br>
