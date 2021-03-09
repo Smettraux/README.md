@@ -47,3 +47,7 @@
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
 </p>
+
+[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/Smettraux/github-profile-summary-cards)
+
+[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/Smettraux/github-profile-summary-cards)
