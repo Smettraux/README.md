@@ -52,8 +52,7 @@
 
 <p align=center>
   
- [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smettraux&layout=compact&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smettraux&layout=compact&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
