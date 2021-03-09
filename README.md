@@ -48,6 +48,5 @@
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
 </p>
 
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/Smettraux/github-profile-summary-cards)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/Smettraux/github-profile-summary-cards)
