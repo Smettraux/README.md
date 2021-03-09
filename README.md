@@ -48,5 +48,5 @@
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
 </p>
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
