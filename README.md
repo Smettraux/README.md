@@ -11,8 +11,6 @@
   <br>
   🔬 I'm currently studying for a Bachelor's degree in <a href="https://heig-vd.ch/a-propos/heig-vd/organisation/departements/comem">HEIG-VD COMEM+</a> Department
   <br>
-  💻 I'm kinda new to writing code, but I love learning about it
-  <br>
   📚 I'm currently learning several languages, frameworks and tools as listed below
   <br>
   📫 How to reach me: <a href="mailto: steve.mettraux@heig-vd.ch">steve.mettraux@heig-vd.ch</a>
