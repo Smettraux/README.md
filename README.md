@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Steve 👋</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&height=35&lines=a+web+developper;an+UX%2FUI+design+enthusiast;trying+my+best;eager+to+learn;a+digital+marketing+strategist;a+Media+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&height=35&lines=I'm+a+web+developper;I'm+an+UX%2FUI+design+enthusiast;I'm+trying+my+best;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
 <h5 align="center">
   <code>
