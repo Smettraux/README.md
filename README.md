@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2353B0FF&size=16&center=true&width=1000&height=35&lines=I'm+from+🇨🇭;I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
-Say hello ! 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-mettraux/)
+<h2 align="center">Say hello !</h2>
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mettrauxsteve)
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-mettraux/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mettrauxsteve)
+</p>
 
 <hr>
 
