@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Steve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2353B0FF&size=16&center=true&width=1000&height=35&lines=I'm+from+🇨🇭;I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2353B0FF&size=25&center=true&width=1000&height=35&lines=I'm+from+🇨🇭;I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
 <h2 align="center">Say hello !</h2>
 
