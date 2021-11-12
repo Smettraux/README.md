@@ -1,7 +1,8 @@
 <h3 align="center">Hello there, I'm Steve 👋</h3>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&center=true&height=35&lines=I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+trying+my+best;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
+ </p>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/steve-mettraux/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
