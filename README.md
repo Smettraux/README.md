@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2353B0FF&size=16&center=true&width=1000&height=35&lines=I'm+from+🇨🇭;I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/steve-mettraux/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/mettrauxsteve" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-</h5>
-
 Say hello ! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-mettraux/)
 
@@ -18,12 +12,10 @@ Say hello !
 <h2 align="center">Here are some languages & tools I use</h2>
 
 <p align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
