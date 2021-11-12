@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-mettraux/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mettrauxsteve)
 
-<hr>
+
 
 <h2>Here are some languages & tools I use</h2>
 
@@ -31,7 +31,7 @@
 
 </p>
 
-<hr>
+
 
 <h2>Some things I'm learning</h2>
 
