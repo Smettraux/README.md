@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Steve METTRAUX, a last year Media Engineering student
+  Hi, I'm Steve METTRAUX, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&height=35&lines=a+web+developper;an+UX%2FUI+design+enthusiast;trying+my+best;eager+to+learn;a+digital+marketing+strategist;a+Media+Engineering+student)](https://git.io/typing-svg)
   <br>
   <br>
   🔬 I'm currently studying for a Bachelor's degree in <a href="https://heig-vd.ch/a-propos/heig-vd/organisation/departements/comem">HEIG-VD COMEM+</a> Department
