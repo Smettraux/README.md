@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2353B0FF&size=25&center=true&width=1000&height=35&lines=I'm+from+🇨🇭;I'm+a+web+developper;I'm+a+UX%2FUI+design+enthusiast;I'm+eager+to+learn;I'm+a+digital+marketing+strategist;I'm+a+Media+Engineering+student)](https://git.io/typing-svg)
 
-<h2 align="center">Say hello !</h2>
+<h2>Say hello !</h2>
 
   
 
@@ -10,9 +10,9 @@
 
 <hr>
 
-<h2 align="center">Here are some languages & tools I use</h2>
+<h2>Here are some languages & tools I use</h2>
 
-<p align="center">
+<p>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2 align="center">Some things I'm learning</h2>
+<h2>Some things I'm learning</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -41,7 +41,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 
-<hr >
+<hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark" />
