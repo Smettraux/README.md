@@ -1,11 +1,13 @@
 <h3 align="center">Hello there, I'm Steve 👋</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&height=35&lines=a+web+developper;an+UX%2FUI+design+enthusiast;trying+my+best;eager+to+learn;a+digital+marketing+strategist;a+Media+Engineering+student)](https://git.io/typing-svg)
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/steve-mettraux/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/mettrauxsteve" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockwell&color=%23FFFFFF&size=16&height=35&lines=a+web+developper;an+UX%2FUI+design+enthusiast;trying+my+best;eager+to+learn;a+digital+marketing+strategist;a+Media+Engineering+student)](https://git.io/typing-svg)
 <p align="center">
   <br>
   <br>
