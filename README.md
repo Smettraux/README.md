@@ -35,8 +35,10 @@ I'm a Media Engineer, specializing in frontend Javascript & UX/Design. I'm passi
 
 
 <h2>Some things I'm learning</h2>
+<p>
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+</p>
 
 
 <hr>
