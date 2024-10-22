@@ -45,11 +45,10 @@ I'm a Media Engineer, specializing in frontend Javascript & UX/Design. I'm passi
 
 <hr>
 <p align="center">
- 
-    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smettraux&langs_count=8&theme=vue-dark" />
   </a>
 </p>
-[![Smettraux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smettraux&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
